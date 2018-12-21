@@ -1,0 +1,9 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="src/main/test/**" />
+      </list>
+    </option>
+  </component>
+</application>

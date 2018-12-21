@@ -1,0 +1,41 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/MS/integrations/roostify-esign-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/MS/verification-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Roostify/esign-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Roostify/integrations" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Roostify/integrations/roostify-esign-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Roostify/integrations/roostify-product-pricing" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Roostify/verification-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Work/integrations" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Work/integrations/roostify-product-pricing" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Work/verification-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/check/verification-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/fixIssues/verification-service" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
