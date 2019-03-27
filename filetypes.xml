@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="VerificationServiceExceptionHandlerTest.java" type="JAVA" />
+      <mapping pattern="duMISMO.xml" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
