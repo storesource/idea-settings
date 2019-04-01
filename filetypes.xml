@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="VerificationServiceExceptionHandlerTest.java" type="JAVA" />
       <mapping pattern="duMISMO.xml" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="xjb" type="PLAIN_TEXT" />
       <mapping pattern="testRequest" type="XML" />
