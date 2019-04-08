@@ -5,10 +5,12 @@
       <mapping pattern="VerificationServiceExceptionHandlerTest.java" type="JAVA" />
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4" type="PLAIN_TEXT" />
+      <mapping pattern="DuExportResponseROError" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4_empty" type="PLAIN_TEXT" />
       <mapping pattern="LPAResponseTest" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_invalid" type="PLAIN_TEXT" />
       <mapping pattern="DuExportLoanApplicationResponseNoCaseId" type="PLAIN_TEXT" />
+      <mapping pattern="DuExportResponseCOError" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4_null" type="PLAIN_TEXT" />
       <mapping pattern="duMISMO.xml" type="PLAIN_TEXT" />
