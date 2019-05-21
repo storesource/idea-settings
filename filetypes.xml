@@ -6,6 +6,7 @@
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseROError" type="PLAIN_TEXT" />
+      <mapping pattern="LOAN_APPLICATION" type="PLAIN_TEXT" />
       <mapping pattern="MORNETPLUS_LOAN" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4_empty" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseEmpty" type="PLAIN_TEXT" />
