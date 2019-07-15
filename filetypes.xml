@@ -6,17 +6,18 @@
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseROError" type="PLAIN_TEXT" />
-      <mapping pattern="LOAN_APPLICATION" type="PLAIN_TEXT" />
       <mapping pattern="MORNETPLUS_LOAN" type="PLAIN_TEXT" />
-      <mapping pattern="dummyLoanApp_Mismo3_4_empty" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseEmpty" type="PLAIN_TEXT" />
+      <mapping pattern="DuExportLoanApplicationResponseNoCaseId" type="PLAIN_TEXT" />
       <mapping pattern="LPAResponseTest" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_invalid" type="PLAIN_TEXT" />
-      <mapping pattern="DuExportLoanApplicationResponseNoCaseId" type="PLAIN_TEXT" />
+      <mapping pattern="LOAN_APPLICATION" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseCOError" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_Mismo3_4_null" type="PLAIN_TEXT" />
       <mapping pattern="duMISMO.xml" type="PLAIN_TEXT" />
+      <mapping pattern="dummyLoanApp_Mismo3_4_empty" type="PLAIN_TEXT" />
+      <mapping pattern="validLoanApplication" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="xjb" type="PLAIN_TEXT" />
       <mapping pattern="testRequest" type="XML" />
