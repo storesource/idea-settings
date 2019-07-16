@@ -8,6 +8,7 @@
       <mapping pattern="DuExportResponseROError" type="PLAIN_TEXT" />
       <mapping pattern="MORNETPLUS_LOAN" type="PLAIN_TEXT" />
       <mapping pattern="DuExportResponseEmpty" type="PLAIN_TEXT" />
+      <mapping pattern="validDuExportResponse" type="PLAIN_TEXT" />
       <mapping pattern="DuExportLoanApplicationResponseNoCaseId" type="PLAIN_TEXT" />
       <mapping pattern="LPAResponseTest" type="PLAIN_TEXT" />
       <mapping pattern="dummyLoanApp_invalid" type="PLAIN_TEXT" />
